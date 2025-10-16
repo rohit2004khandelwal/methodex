@@ -47,8 +47,9 @@ Key goals achieved:
 
 ## 📸 Preview
 
-*(You can add a screenshot of your homepage here)*  
-```md
-![Methodex Preview](./preview.png)
-<img width="1356" height="600" alt="image" src="https://github.com/user-attachments/assets/c0e75817-3da9-4fd9-b53c-d963657f744a" />
+<img width="1356" height="600" alt="image" src="https://github.com/user-attachments/assets/e10bb9cc-029c-4900-9207-bc84abceac65" />
+<img width="1347" height="596" alt="image" src="https://github.com/user-attachments/assets/10411499-b24c-4c7f-86bf-2fab48066178" />
+<img width="1348" height="601" alt="image" src="https://github.com/user-attachments/assets/1cccedff-b820-4bc7-baaf-788ffd59451f" />
+
+
 
