@@ -1,73 +1,54 @@
-# Welcome to your Lovable project
+# 🌐 Methodex – Website Reimagined
 
-## Project info
+A modern, responsive, and fully rebranded version of the Methodex website — designed and developed by **Rohit Khandelwal**.  
+Built with **React** and **Tailwind CSS**, deployed seamlessly on **Vercel**.
 
-**URL**: https://lovable.dev/projects/0304d50d-8880-4621-9864-4d9118174d6d
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+- ⚡ **Fast & Responsive** — Works smoothly on all devices (mobile, tablet, desktop).  
+- 🎨 **Modern UI** — Redesigned with new colors, fonts, and layouts for better user experience.  
+- 🧩 **Reusable Components** — Modular design using React components and props.  
+- 🎯 **Consistent Styling** — Tailwind CSS used to maintain uniform design across all pages.  
+- 🔄 **Clean Code Structure** — Easy to maintain and scale for future updates.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0304d50d-8880-4621-9864-4d9118174d6d) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+| Category | Tools Used |
+|-----------|-------------|
+| Frontend | React.js |
+| Styling | Tailwind CSS |
+| Deployment | Vercel |
+| Version Control | Git + GitHub |
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 💡 Project Overview
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This project focuses on improving **brand identity** and **UI consistency**.  
+The aim was to redesign the existing Methodex website with a more professional look while maintaining performance and responsiveness.
 
-Follow these steps:
+Key goals achieved:
+- Rebranding execution with modern visuals  
+- Component-based structure for better maintainability  
+- Full deployment workflow using GitHub + Vercel  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🔗 Live Demo
 
-# Step 3: Install the necessary dependencies.
-npm i
+👉 [View Live Website](https://methodex-redesign.vercel.app/)  
+*(Replace this link with your actual deployed Vercel link)*
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 📸 Preview
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+*(You can add a screenshot of your homepage here)*  
+```md
+![Methodex Preview](./preview.png)
+<img width="1356" height="600" alt="image" src="https://github.com/user-attachments/assets/c0e75817-3da9-4fd9-b53c-d963657f744a" />
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0304d50d-8880-4621-9864-4d9118174d6d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
